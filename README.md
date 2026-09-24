@@ -7,6 +7,8 @@ The first [children's book pack](drafts/children/cc-by-4.0/README.md) is a four-
 
 See [RELEASES.md](RELEASES.md) for immutable packs, catalog revisions, rights review, and unscheduled updates.
 
+The [modern science-fiction research](research/scifi/README.md) tracks the separate 2,000-book goal and its licensed source leads. No science-fiction torrent has been approved or published.
+
 ## Roadmap
 
 - Grow the reviewed children's catalog toward 2,000 distinct language editions, including educational books and comics. Prioritize Portuguese from Portugal, Dutch, and readers aged 10–15 in upcoming packs.
