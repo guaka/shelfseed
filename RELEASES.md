@@ -1,5 +1,7 @@
 # Book bundle releases
 
+External torrent indexes, such as [Internet Archive book torrents](research/internet-archive/README.md), are links to another host's existing items. They are tracked separately from ShelfSeed packs and do not trigger a catalog revision when IA adds or updates an item.
+
 ## Names and versions
 
 - A **pack** is an immutable torrent payload. Its ID includes collection, rights class, and a sequence number, for example `shelfseed-children-cc-by-4.0-pack-001`. A pack number never denotes a complete snapshot.

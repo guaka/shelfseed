@@ -1,7 +1,11 @@
 # ShelfSeed
 
-ShelfSeed prepares openly licensed book collections for distribution by torrent.
+ShelfSeed indexes book torrents and prepares openly licensed book collections for distribution by torrent.
 The first [children's book pack](drafts/children/cc-by-4.0/README.md) is a four-edition draft, not the planned 2,000-edition release.
+
+## Existing torrents
+
+[Internet Archive book torrents](research/internet-archive/README.md) are an external source. ShelfSeed can link to IA's live search indexes and individual item torrents directly; those links do not require a ShelfSeed pack or release. IA availability alone does not establish a book's license.
 
 ## Release model
 

@@ -1,5 +1,7 @@
 # Modern science-fiction book search
 
+[Internet Archive's live science-fiction torrent search](../internet-archive/README.md) is an external index. Those IA torrents are not counted as reviewed open-license novels or ShelfSeed packs.
+
 Research snapshot: 2026-09-24. Goal: 2,000 **book-length** science-fiction works first published in 1950 or later, with a redistributable free/open license. Short stories, podcast episodes, role-playing manuals, magazines, reviews about fiction, and multiple file formats of the same book do not count as separate books. A modern scan of an older book does not make the work post-1950.
 
 ## License boundary
