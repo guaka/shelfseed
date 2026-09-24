@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "status": "draft",
+  "pack_id": "shelfseed-children-cc-by-4.0-pack-001",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "rights_source": "https://content.digitallibrary.io/license/",
+  "piece_length": 262144,
+  "books": [
+    {
+      "edition_id": "gdl-1179-en",
+      "title": "Why Do Bees Buzz?",
+      "language": "en",
+      "reading_level": "StoryWeaver Level 3",
+      "source_page": "https://content.digitallibrary.io/en/book/why-do-bees-buzz/",
+      "source_url": "https://content.digitallibrary.io/wp-content/uploads/2020/10/15847-7c82e3c3967af7cd0fc0bc6c6c18d468.pdf",
+      "file": "en-why-do-bees-buzz.pdf",
+      "bytes": 1195311,
+      "sha256": "8766a956fc10987da30992e27b98c8c278c0290c49819314c3b36cc4064a22af"
+    },
+    {
+      "edition_id": "gdl-1185-fr",
+      "title": "À l’intérieur du World Wide Web",
+      "language": "fr",
+      "reading_level": "StoryWeaver Level 3",
+      "source_page": "https://content.digitallibrary.io/fr/book/a-linterieur-du-world-wide-web-2/",
+      "source_url": "https://content.digitallibrary.io/wp-content/uploads/2020/10/15877-7c82e3c3967af7cd0fc0bc6c6c18d468.pdf",
+      "file": "fr-world-wide-web.pdf",
+      "bytes": 952538,
+      "sha256": "9d78e5aba8ec2de5e22cf3aa9710832335694492abf2193064d80c1f839040e5"
+    },
+    {
+      "edition_id": "gdl-1184-es-es",
+      "title": "¡INMERSIÓN!",
+      "language": "es-ES",
+      "reading_level": "StoryWeaver Level 3",
+      "source_page": "https://content.digitallibrary.io/es-es/book/inmersion/",
+      "source_url": "https://content.digitallibrary.io/wp-content/uploads/2020/10/15865-7c82e3c3967af7cd0fc0bc6c6c18d468.pdf",
+      "file": "es-es-inmersion.pdf",
+      "bytes": 2281097,
+      "sha256": "ca3a4729189bb586d993b6bc1ea5a774e8b871af5bdf4eefd95b740490e5f307"
+    },
+    {
+      "edition_id": "gdl-1184-pt-br",
+      "title": "MERGULHO!",
+      "language": "pt-BR",
+      "reading_level": "StoryWeaver Level 3",
+      "source_page": "https://content.digitallibrary.io/pt-br/book/mergulho/",
+      "source_url": "https://content.digitallibrary.io/wp-content/uploads/2020/10/15863-7c82e3c3967af7cd0fc0bc6c6c18d468.pdf",
+      "file": "pt-br-mergulho.pdf",
+      "bytes": 2281044,
+      "sha256": "9c716e0cee85ac3f2aa37b8bc67fdfea9e642d771ad108590911c7b5c4dfdf5e"
+    }
+  ]
+}

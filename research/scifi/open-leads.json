@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "as_of": "2026-09-24",
+  "status": "research-leads-not-cleared-for-torrent",
+  "counting_unit": "distinct book-length work, not format or edition",
+  "leads": [
+    {"title": "Green Comet", "author": "Jim Bowering", "year": 2012, "language": "en", "license_label": "CC BY-SA 4.0", "rights_page": "https://unglue.it/work/128673/", "review_status": "file-and-credits-pending"},
+    {"title": "Parasite Puppeteers", "author": "Jim Bowering", "year": 2015, "language": "en", "license_label": "CC BY-SA 4.0", "rights_page": "https://unglue.it/work/146704/", "review_status": "file-and-credits-pending"},
+    {"title": "The Francesians", "author": "Jim Bowering", "year": 2017, "language": "en", "license_label": "CC BY-SA 4.0", "rights_page": "https://unglue.it/work/226428/", "review_status": "file-and-credits-pending"},
+    {"title": "House of Refuge", "author": "Michael DiBaggio", "year": 2014, "language": "en", "license_label": "CC BY-SA, version to verify", "rights_page": "https://unglue.it/work/144855/", "review_status": "license-version-file-and-credits-pending"},
+    {"title": "Biodigital", "author": "John Sundman", "year": 2014, "language": "en", "license_label": "CC BY-SA, version to verify", "rights_page": "https://unglue.it/work/136615/", "review_status": "license-version-file-and-credits-pending"},
+    {"title": "The Relay", "author": "Kevin Steffensen", "year": 2026, "language": "en", "license_label": "CC BY-SA, version to verify", "rights_page": "https://www.after-certainty.com/explore/books/the-relay", "review_status": "license-version-file-and-credits-pending"}
+  ]
+}
